@@ -6,7 +6,7 @@
   <tr>
     <td style="width: 50%;">
       <p align="center"> 
-        <img src="https://github.com/Demon-2-Angel/Demon-2-Angel/blob/main/167977.gif" alt="demon-2-angel" />
+        <img src="https://github.com/Demon-2-Angel/Demon-2-Angel/blob/main/219644.gif" alt="demon-2-angel" />
       </p>
     </td>
     <td style="width: 50%; padding-left: 20px;">
@@ -97,9 +97,9 @@
 
 <br>
 <p align="center">
-  <img align = left src="https://github.com/Demon-2-Angel/Demon-2-Angel/blob/main/1599.gif" alt="demon-2-angel" />
+  <img src="https://github.com/Demon-2-Angel/Demon-2-Angel/blob/main/220251.gif" alt="demon-2-angel" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=demon-2-angel&" alt="demon-2-angel" />
-  <img align = right src="https://github.com/Demon-2-Angel/Demon-2-Angel/blob/main/1599.gif" alt="demon-2-angel" />
+  <img src="https://github.com/Demon-2-Angel/Demon-2-Angel/blob/main/220251.gif" alt="demon-2-angel" />
 </p>
 
 
