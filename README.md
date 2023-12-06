@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aniruddha Kumar</h1>
 <h3 align="center">A passionate Data-Science Enthusiast from India</h3>
+<h4  align="center"> Btech. AI&ML Student || General-Secretary pf A.I Club || Junior ML Engineer at Omdena.Inc || Orator || Writer || ML Enthusiast || Otaku |</h4>
 
 <p align="center"> <img src="https://github.com/Demon-2-Angel/Demon-2-Angel/blob/main/12174.gif" alt="demon-2-angel" /></a> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demon-2-angel" alt="demon-2-angel" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demon-2-angel" alt="demon-2-angel" /></a> </p>
 
 - 🔭 I’m currently working on **Water Management & Forecasting in Algeria & Bhopal**
 
@@ -20,41 +21,21 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1s0wmtv3S8EhLpdwD__4nSnoovPJ8EmsP/view?usp=sharing](https://drive.google.com/file/d/1s0wmtv3S8EhLpdwD__4nSnoovPJ8EmsP/view?usp=sharing)
 
+<br>
+<br>
+
 <h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aniruddha-kumar-2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aniruddha-kumar-2021/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/demon2angel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/demon2angel" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/aniruddhakrmaurya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aniruddhakrmaurya/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@aniruddhakumar6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@aniruddhakumar6" height="30" width="40" /></a>
+</p>
 
-
-
-
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td>
-      <a href="https://linkedin.com/in/https://www.linkedin.com/in/aniruddha-kumar-2021/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aniruddha-kumar-2021/" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://kaggle.com/https://www.kaggle.com/demon2angel" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/demon2angel" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://instagram.com/https://www.instagram.com/aniruddhakrmaurya/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aniruddhakrmaurya/" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/c/https://www.youtube.com/@aniruddhakumar6" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@aniruddhakumar6" height="30" width="40" />
-      </a>
-    </td>
-
-  <td rowspan="4">
-      <img src="https://github.com/Demon-2-Angel/Demon-2-Angel/blob/main/4732.gif" alt="demon-2-angel" />
-    </td>
-  </tr>
-</table>
-
+<br>
+<p align=center>
+<img src="https://github.com/Demon-2-Angel/Demon-2-Angel/blob/main/4732.gif" alt="demon-2-angel" />
+</p>
 
 
 
