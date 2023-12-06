@@ -94,7 +94,7 @@
   </a>
 </p>
 <br>
-<br>
+
 <br>
 <p align="center">
   <img align = left src="https://github.com/Demon-2-Angel/Demon-2-Angel/blob/main/1599.gif" alt="demon-2-angel" />
