@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[](https://github.com/Demon-2-Angel/Demon-2-Angel/blob/main/12163.gif)
+![](https://github.com/Demon-2-Angel/Demon-2-Angel/blob/main/12163.gif)
 <!--
 **Demon-2-Angel/Demon-2-Angel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
