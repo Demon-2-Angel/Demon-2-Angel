@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniruddha Kumar</h1>
 <h3 align="center">A passionate Data-Science Enthusiast from India</h3>
-<h4  align="center"> Btech. AI&ML Student || General-Secretary pf A.I Club || Junior ML Engineer at Omdena.Inc || Orator || Writer || ML Enthusiast || Otaku |</h4>
+<h4  align="center">|| Btech. AI&ML Student || General-Secretary pf A.I Club || Junior ML Engineer at Omdena.Inc || Orator || Writer || ML Enthusiast || Otaku ||</h4>
 
 <p align="center"> <img src="https://github.com/Demon-2-Angel/Demon-2-Angel/blob/main/12174.gif" alt="demon-2-angel" /></a> </p>
 
