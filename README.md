@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aniruddha Kumar</h1>
+<h1 align="center">Hi 👋, I'm AniruddhaKumar</h1>
 <h3 align="center">A passionate Data-Science Enthusiast from India</h3>
 <p align="center">|| Btech. AI&ML Student || General-Secretary pf A.I Club || Junior ML Engineer at Omdena.Inc || Orator || Writer || ML Enthusiast || Otaku ||</p>
 
