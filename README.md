@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AniruddhaKumar</h1>
 <h3 align="center">A passionate Data-Science Enthusiast from India</h3>
-<p align="center">|| Btech. AI&ML Student || General-Secretary pf A.I Club || Junior ML Engineer at Omdena.Inc || Orator || Writer || ML Enthusiast || Otaku ||</p>
+<p align="center">|| Btech. AI&ML Student || Junior ML Engineer at Omdena.Inc || Orator || Writer || ML Enthusiast || Otaku ||</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demon-2-angel&theme=dracula&margin-w=15" alt="demon-2-angel" /></a> </p>
 
