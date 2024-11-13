@@ -13,7 +13,6 @@
     </td>
     <td style="width: 50%; padding-left: 20px;">
       <ul>
-        <li>🔭 I’m currently working on <strong>Water Management & Forecasting in Algeria & Bhopal</strong></li>
         <li>🌱 I’m currently learning <strong>Deep Learning & Big Data Applications</strong></li>
         <li>👨‍💻 All of my projects are available at <a href="https://bento.me/aniruddha-kumar" target="_blank">https://bento.me/aniruddha-kumar</a></li>
         <li>📝 I regularly write articles on <a href="https://letstalkwithani.blogspot.com/" target="_blank">https://letstalkwithani.blogspot.com/</a></li>
