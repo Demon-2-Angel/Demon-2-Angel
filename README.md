@@ -18,7 +18,7 @@
         <li>📝 I regularly write articles on <a href="https://letstalkwithani.blogspot.com/" target="_blank">https://letstalkwithani.blogspot.com/</a></li>
         <li>💬 Ask me about <strong>Machine Learning, Data Analysis, Statistics</strong></li>
         <li>📫 How to reach me <strong>foraniruddhakumar@gmail.com</strong></li>
-        <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1s0wmtv3S8EhLpdwD__4nSnoovPJ8EmsP/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1s0wmtv3S8EhLpdwD__4nSnoovPJ8EmsP/view?usp=sharing</a></li>
+        <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1BgD02LDbtWghPKOeD2G1Z4UUIPuNL7F4/view?usp=drive_link" target="_blank">Resume</a></li>
       </ul>
     </td>
   </tr>
