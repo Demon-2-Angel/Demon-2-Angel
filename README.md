@@ -18,7 +18,7 @@
         <li>📝 I regularly write articles on <a href="https://letstalkwithani.blogspot.com/" target="_blank">My Blogs/</a></li>
         <li>💬 Ask me about <strong>Deep Learning, Machine Learning, Data Analysis, Statistics, Remote Sensing</strong></li>
         <li>📫 How to reach me <strong>foraniruddhakumar@gmail.com</strong></li>
-        <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1BgD02LDbtWghPKOeD2G1Z4UUIPuNL7F4/view?usp=drive_link" target="_blank">Resume</a></li>
+        <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1YU_wuE_AYE82Ogp9VRwBK859H2G_6Mi1/view?usp=drive_link" target="_blank">Resume</a></li>
       </ul>
     </td>
   </tr>
